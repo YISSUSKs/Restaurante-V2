@@ -1,0 +1,35 @@
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\bin\Debug\Proyecto Restaurante.exe.config
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\bin\Debug\Proyecto Restaurante.exe
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\bin\Debug\Proyecto Restaurante.pdb
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\bin\Debug\mscorlib.dll
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\bin\Debug\es\mscorlib.resources.dll
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\bin\Debug\normidna.nlp
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\bin\Debug\normnfc.nlp
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\bin\Debug\normnfd.nlp
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\bin\Debug\normnfkc.nlp
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\bin\Debug\normnfkd.nlp
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\obj\Debug\Proyecto Restaurante.csprojResolveAssemblyReference.cache
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\obj\Debug\Proyecto_Restaurante.Login_Usuario.resources
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\obj\Debug\Proyecto_Restaurante.Properties.Resources.resources
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\obj\Debug\Proyecto Restaurante.csproj.GenerateResource.Cache
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\obj\Debug\Proyecto Restaurante.exe
+C:\Users\jesus.lizarragav\Downloads\Proyecto-Restaurante-master\Proyecto-Restaurante-master\obj\Debug\Proyecto Restaurante.pdb
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\Proyecto Restaurante.exe.config
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\obj\Debug\Proyecto Restaurante.exe
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\obj\Debug\Proyecto Restaurante.pdb
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\Proyecto Restaurante.exe
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\Proyecto Restaurante.pdb
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\mscorlib.dll
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\es\mscorlib.resources.dll
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\normidna.nlp
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\normnfc.nlp
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\normnfd.nlp
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\normnfkc.nlp
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\normnfkd.nlp
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\obj\Debug\Proyecto Restaurante.csprojResolveAssemblyReference.cache
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\obj\Debug\Proyecto_Restaurante.Login_Usuario.resources
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\obj\Debug\Proyecto_Restaurante.Properties.Resources.resources
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\obj\Debug\Proyecto Restaurante.csproj.GenerateResource.Cache
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\jesus.lizarragav\Desktop\Restaurante\Proyecto-Restaurante-master\obj\Debug\Proyecto_Restaurante.menu_control.resources
